@@ -1,0 +1,27 @@
+body {
+  background: #111;
+  color: rgb(37, 126, 161);
+  text-align: center;
+  font-family: Arial;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+small {
+  margin-top: 10px;
+  font-size: 1rem;
+  font-weight: 600;
+  width: 100%;
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
